@@ -1,0 +1,41 @@
+17:20:04.0879 [main] INFO  api.test.UserTests - ******Creating User********
+ 17:20:06.0586 [main] INFO  api.test.UserTests - ******User is created********
+ 17:20:06.0598 [main] INFO  api.test.UserTests - ******Getting User info********
+ 17:20:07.0120 [main] INFO  api.test.UserTests - ******User info are displayed********
+ 17:20:07.0124 [main] INFO  api.test.UserTests - ******Updating User info********
+ 17:20:07.0592 [main] INFO  api.test.UserTests - ******User info are updated********
+ 17:20:08.0052 [main] INFO  api.test.UserTests - ******Deleting User********
+ 17:20:08.0521 [main] INFO  api.test.UserTests - ******User is deleted********
+ 14:58:56.0701 [main] INFO  api.test.UserTests_Properties - ******Creating User********
+ 14:58:58.0871 [main] INFO  api.test.UserTests_Properties - ******User is created********
+ 14:58:58.0879 [main] INFO  api.test.UserTests_Properties - ******Getting User info********
+ 14:58:59.0457 [main] INFO  api.test.UserTests_Properties - ******User info are displayed********
+ 14:58:59.0466 [main] INFO  api.test.UserTests_Properties - ******Updating User info********
+ 14:59:00.0068 [main] INFO  api.test.UserTests_Properties - ******User info are updated********
+ 14:59:00.0577 [main] INFO  api.test.UserTests_Properties - ******Deleting User********
+ 14:59:01.0104 [main] INFO  api.test.UserTests_Properties - ******User is deleted********
+ 15:01:01.0236 [main] INFO  api.test.UserTests_Properties - ******Creating User********
+ 15:01:03.0064 [main] INFO  api.test.UserTests_Properties - ******User is created********
+ 15:01:03.0079 [main] INFO  api.test.UserTests_Properties - ******Getting User info********
+ 15:01:03.0688 [main] INFO  api.test.UserTests_Properties - ******User info are displayed********
+ 15:01:03.0697 [main] INFO  api.test.UserTests_Properties - ******Updating User info********
+ 15:01:04.0305 [main] INFO  api.test.UserTests_Properties - ******User info are updated********
+ 15:01:04.0783 [main] INFO  api.test.UserTests_Properties - ******Deleting User********
+ 15:01:05.0452 [main] INFO  api.test.UserTests_Properties - ******User is deleted********
+ 15:25:50.0327 [main] INFO  api.test.UserTests_Properties - ******Creating User********
+ 15:25:52.0422 [main] INFO  api.test.UserTests_Properties - ******User is created********
+ 15:25:52.0430 [main] INFO  api.test.UserTests_Properties - ******Getting User info********
+ 15:25:53.0027 [main] INFO  api.test.UserTests_Properties - ******User info are displayed********
+ 15:25:53.0032 [main] INFO  api.test.UserTests_Properties - ******Updating User info********
+ 15:25:53.0659 [main] INFO  api.test.UserTests_Properties - ******User info are updated********
+ 15:25:54.0330 [main] INFO  api.test.UserTests_Properties - ******Deleting User********
+ 15:25:55.0107 [main] INFO  api.test.UserTests_Properties - ******User is deleted********
+ 11:09:33.0125 [main] INFO  api.test.UserTests_Properties - ******Creating User********
+ 11:09:35.0544 [main] INFO  api.test.UserTests_Properties - ******User is created********
+ 11:09:35.0560 [main] INFO  api.test.UserTests_Properties - ******Getting User info********
+ 11:09:36.0103 [main] INFO  api.test.UserTests_Properties - ******User info are displayed********
+ 11:09:36.0103 [main] INFO  api.test.UserTests_Properties - ******Updating User info********
+ 11:09:36.0627 [main] INFO  api.test.UserTests_Properties - ******User info are updated********
+ 11:09:37.0133 [main] INFO  api.test.UserTests_Properties - ******Deleting User********
+ 11:09:37.0653 [main] INFO  api.test.UserTests_Properties - ******User is deleted********
+ 
